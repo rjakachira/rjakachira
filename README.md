@@ -6,7 +6,7 @@
 - <b>Reproducible Analytical Pipeline (RAP) Projects</b>
   - [ICT Index RAP] https://github.com/rjakachira/ICT_Indices_Rap
 - <b> Mobile Phone Big Data for Official Statistics </b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Mobile Phone Big Data for ICT Statistics] (https://github.com/rjakachira/MPD_ICT)
 
 <h2>👨‍💻Certifications:</h2>
 
